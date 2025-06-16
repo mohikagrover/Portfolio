@@ -57,14 +57,6 @@ To add your profile picture:
 
 Update all the links to point to your actual projects, GitHub, LinkedIn, etc.
 
-## Deployment
-
-You can deploy this website using various hosting services:
-
-- GitHub Pages
-- Netlify
-- Vercel
-- Any web hosting service that supports static websites
 
 ## Built With
 
